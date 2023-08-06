@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 # ꦱꦸꦒꦼꦁꦫꦮꦸꦃ
+My name is Hasan and I am mostly interested in projects relating to Languages (language learning and translation) and Medicine. I consider myself a complete beginner at programming, but I have basic skills in Javascript and static web design in general.
